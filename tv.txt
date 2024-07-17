@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="电视剧" tvg-id="电视剧" tvg-logo="http://tv.haoqu99.com/d/file/2016/0615/20160615105203158.jpg",电视剧
-http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=29f2bd63b5f730d44ef333de970217e7&wsTime=1721235009
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
 http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3综艺
