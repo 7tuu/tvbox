@@ -1,197 +1,159 @@
-央视频道,#genre#
-CCTV1,http://123.163.27.119:4022/rtp/239.16.10.1:2000?$henan
-CCTV1,http://123.163.27.119:4022/rtp/239.16.20.1:10010?$henan
-CCTV2,http://123.163.27.119:4022/rtp/239.16.10.127:2000?$henan
-CCTV2,http://123.163.27.119:4022/rtp/239.16.20.2:10020?$henan
-CCTV3,http://123.163.27.119:4022/rtp/239.16.10.2:2000?$henan
-CCTV3,http://123.163.27.119:4022/rtp/239.16.20.3:10030?$henan
-CCTV4,http://123.163.27.119:4022/rtp/239.16.10.128:2000?$henan
-CCTV4,http://123.163.27.119:4022/rtp/239.16.20.4:10040?$henan
-CCTV5+,http://123.163.27.119:4022/rtp/239.16.10.3:2000?$henan
-CCTV5+,http://123.163.27.119:4022/rtp/239.16.20.5:10050?$henan
-CCTV5,http://123.163.27.119:4022/rtp/239.16.10.132:2000?$henan
-CCTV5,http://123.163.27.119:4022/rtp/239.16.20.53:10530?$henan
-CCTV6,http://123.163.27.119:4022/rtp/239.16.10.101:2000?$henan
-CCTV6,http://123.163.27.119:4022/rtp/239.16.20.6:10060?$henan
-CCTV7,http://123.163.27.119:4022/rtp/239.16.10.130:2000?$henan
-CCTV7,http://123.163.27.119:4022/rtp/239.16.20.51:10510?$henan
-CCTV8,http://123.163.27.119:4022/rtp/239.16.10.102:2000?$henan
-CCTV8,http://123.163.27.119:4022/rtp/239.16.20.8:10080?$henan
-CCTV9,http://123.163.27.119:4022/rtp/239.16.10.103:2000?$henan
-CCTV9,http://123.163.27.119:4022/rtp/239.16.20.9:10090?$henan
-CCTV10,http://123.163.27.119:4022/rtp/239.16.10.108:2000?$henan
-CCTV10,http://123.163.27.119:4022/rtp/239.16.20.10:10100?$henan
-CCTV11,http://123.163.27.119:4022/rtp/239.16.10.109:2000?$henan
-CCTV11,http://123.163.27.119:4022/rtp/239.16.20.11:10110?$henan
-CCTV12,http://123.163.27.119:4022/rtp/239.16.10.110:2000?$henan
-CCTV12,http://123.163.27.119:4022/rtp/239.16.20.12:10120?$henan
-CCTV13,http://123.163.27.119:4022/rtp/239.16.10.111:2000?$henan
-CCTV13,http://123.163.27.119:4022/rtp/239.16.20.13:10130?$henan
-CCTV14,http://123.163.27.119:4022/rtp/239.16.10.112:2000?$henan
-CCTV14,http://123.163.27.119:4022/rtp/239.16.20.14:10140?$henan
-CCTV15,http://123.163.27.119:4022/rtp/239.16.10.113:2000?$henan
-CCTV15,http://123.163.27.119:4022/rtp/239.16.20.15:10150?$henan
-CCTV17,http://123.163.27.119:4022/rtp/239.16.10.129:2000?$henan
-CCTV17,http://123.163.27.119:4022/rtp/239.16.20.7:10070?$henan
-金鹰卡通,http://123.163.27.119:4022/rtp/239.16.10.115:2000?$henan
-金鹰卡通,http://123.163.27.119:4022/rtp/239.16.20.104:11040?$henan
-SiTV频道,#genre#
-SiTV游戏风云,http://123.163.27.119:4022/rtp/239.16.20.112:11120?$henan
-SiTV欢笑剧场,http://123.163.27.119:4022/rtp/239.16.20.39:10390?$henan
-SiTV都市剧场,http://123.163.27.119:4022/rtp/239.16.10.232:2000?$henan
-SiTV都市剧场,http://123.163.27.119:4022/rtp/239.16.20.38:10380?$henan
-SiTV金色学堂,http://123.163.27.119:4022/rtp/239.16.20.115:11150?$henan
-﻿SiTV乐游,http://123.163.27.119:4022/rtp/239.16.20.111:11110?$henan
-SiTV动漫秀场,http://123.163.27.119:4022/rtp/239.16.10.234:2000?$henan
-SiTV动漫秀场,http://123.163.27.119:4022/rtp/239.16.20.40:10400?$henan
-SiTV极速汽车,http://123.163.27.119:4022/rtp/239.16.20.113:11130?$henan
-SiTV法治天地,http://123.163.27.119:4022/rtp/239.16.20.156:11560?$henan
-SiTV生活时尚,http://123.163.27.119:4022/rtp/239.16.20.114:11140?$henan
-SiTV东方财经,http://123.163.27.119:4022/rtp/239.16.10.235:2000?$henan
-SiTV东方财经,http://123.163.27.119:4022/rtp/239.16.20.64:10640?$henan
-卫视频道,#genre#
-上海卫视,http://123.163.27.119:4022/rtp/239.16.10.7:2000?$henan
-上海卫视,http://123.163.27.119:4022/rtp/239.16.20.73:10730?$henan
-东南卫视,http://123.163.27.119:4022/rtp/239.16.10.16:2000?$henan
-东南卫视,http://123.163.27.119:4022/rtp/239.16.20.82:10820?$henan
-云南卫视,http://123.163.27.119:4022/rtp/239.16.10.19:2000?$henan
-云南卫视,http://123.163.27.119:4022/rtp/239.16.20.85:10850?$henan
-北京卫视,http://123.163.27.119:4022/rtp/239.16.10.10:2000?$henan
-北京卫视,http://123.163.27.119:4022/rtp/239.16.20.76:10760?$henan
-吉林卫视,http://123.163.27.119:4022/rtp/239.16.10.28:2000?$henan
-吉林卫视,http://123.163.27.119:4022/rtp/239.16.20.94:10940?$henan
-四川卫视,http://123.163.27.119:4022/rtp/239.16.10.20:2000?$henan
-四川卫视,http://123.163.27.119:4022/rtp/239.16.20.86:10860?$henan
-天津卫视,http://123.163.27.119:4022/rtp/239.16.10.30:2000?$henan
-天津卫视,http://123.163.27.119:4022/rtp/239.16.20.96:10960?$henan
-安徽卫视,http://123.163.27.119:4022/rtp/239.16.10.9:2000?$henan
-安徽卫视,http://123.163.27.119:4022/rtp/239.16.20.75:10750?$henan
-山东卫视,http://123.163.27.119:4022/rtp/239.16.10.14:2000?$henan
-山东卫视,http://123.163.27.119:4022/rtp/239.16.20.80:10800?$henan
-广东卫视,http://123.163.27.119:4022/rtp/239.16.10.104:2000?$henan
-广东卫视,http://123.163.27.119:4022/rtp/239.16.20.98:10980?$henan
-广西卫视,http://123.163.27.119:4022/rtp/239.16.10.18:2000?$henan
-广西卫视,http://123.163.27.119:4022/rtp/239.16.20.84:10840?$henan
-江苏卫视,http://123.163.27.119:4022/rtp/239.16.10.8:2000?$henan
-江苏卫视,http://123.163.27.119:4022/rtp/239.16.20.74:10740?$henan
-江西卫视,http://123.163.27.119:4022/rtp/239.16.10.23:2000?$henan
-江西卫视,http://123.163.27.119:4022/rtp/239.16.20.89:10890?$henan
-河北卫视,http://123.163.27.119:4022/rtp/239.16.10.22:2000?$henan
-河北卫视,http://123.163.27.119:4022/rtp/239.16.20.88:10880?$henan
-河南卫视,http://123.163.27.119:4022/rtp/239.16.10.119:2000?$henan
-河南卫视,http://123.163.27.119:4022/rtp/239.16.20.21:10210?$henan
-河南卫视4K,http://123.163.27.119:4022/rtp/239.16.20.199:11990?$henan
-浙江卫视,http://123.163.27.119:4022/rtp/239.16.10.5:2000?$henan
-浙江卫视,http://123.163.27.119:4022/rtp/239.16.20.71:10710?$henan
-海南卫视,http://123.163.27.119:4022/rtp/239.16.10.43:2000?$henan
-海南卫视,http://123.163.27.119:4022/rtp/239.16.20.97:10970?$henan
-深圳卫视,http://123.163.27.119:4022/rtp/239.16.10.11:2000?$henan
-深圳卫视,http://123.163.27.119:4022/rtp/239.16.20.77:10770?$henan
-湖北卫视,http://123.163.27.119:4022/rtp/239.16.10.21:2000?$henan
-湖北卫视,http://123.163.27.119:4022/rtp/239.16.20.87:10870?$henan
-湖南卫视,http://123.163.27.119:4022/rtp/239.16.10.6:2000?$henan
-湖南卫视,http://123.163.27.119:4022/rtp/239.16.20.72:10720?$henan
-甘肃卫视,http://123.163.27.119:4022/rtp/239.16.10.114:2000?$henan
-甘肃卫视,http://123.163.27.119:4022/rtp/239.16.20.102:11020?$henan
-贵州卫视,http://123.163.27.119:4022/rtp/239.16.10.15:2000?$henan
-贵州卫视,http://123.163.27.119:4022/rtp/239.16.20.81:10810?$henan
-辽宁卫视,http://123.163.27.119:4022/rtp/239.16.10.29:2000?$henan
-辽宁卫视,http://123.163.27.119:4022/rtp/239.16.20.95:10950?$henan
-重庆卫视,http://123.163.27.119:4022/rtp/239.16.10.13:2000?$henan
-重庆卫视,http://123.163.27.119:4022/rtp/239.16.20.79:10790?$henan
-陕西卫视,http://123.163.27.119:4022/rtp/239.16.10.17:2000?$henan
-陕西卫视,http://123.163.27.119:4022/rtp/239.16.20.83:10830?$henan
-黑龙江卫视,http://123.163.27.119:4022/rtp/239.16.10.105:2000?$henan
-黑龙江卫视,http://123.163.27.119:4022/rtp/239.16.20.99:10990?$henan
-省内频道,#genre#
-河南乡村,http://123.163.27.119:4022/rtp/239.16.10.181:2000?$henan
-河南乡村,http://123.163.27.119:4022/rtp/239.16.20.195:11950?$henan
-河南公共,http://123.163.27.119:4022/rtp/239.16.10.126:2000?$henan
-河南公共,http://123.163.27.119:4022/rtp/239.16.20.170:11700?$henan
-河南国际,http://123.163.27.119:4022/rtp/239.16.10.182:2000?$henan
-河南国际,http://123.163.27.119:4022/rtp/239.16.20.196:11960?$henan
-河南戏曲,http://123.163.27.119:4022/rtp/239.16.10.148:2000?$henan
-河南文博,http://123.163.27.119:4022/rtp/239.16.10.149:2000?$henan
-河南文物宝库,http://123.163.27.119:4022/rtp/239.16.20.172:11720?$henan
-河南新闻,http://123.163.27.119:4022/rtp/239.16.10.124:2000?$henan
-河南新闻,http://123.163.27.119:4022/rtp/239.16.20.168:11680?$henan
-河南梨园,http://123.163.27.119:4022/rtp/239.16.20.171:11710?$henan
-河南武术世界,http://123.163.27.119:4022/rtp/239.16.20.173:11730?$henan
-河南民生,http://123.163.27.119:4022/rtp/239.16.10.121:2000?$henan
-河南民生,http://123.163.27.119:4022/rtp/239.16.20.165:11650?$henan
-河南法治,http://123.163.27.119:4022/rtp/239.16.10.122:2000?$henan
-河南法治,http://123.163.27.119:4022/rtp/239.16.20.166:11660?$henan
-河南睛彩中原,http://123.163.27.119:4022/rtp/239.16.10.78:2000?$henan
-河南睛彩中原,http://123.163.27.119:4022/rtp/239.16.20.122:11220?$henan
-河南移动戏曲,http://123.163.27.119:4022/rtp/239.16.10.76:2000?$henan
-河南移动戏曲,http://123.163.27.119:4022/rtp/239.16.20.120:11200?$henan
-河南移动电视,http://123.163.27.119:4022/rtp/239.16.10.79:2000?$henan
-河南移动电视,http://123.163.27.119:4022/rtp/239.16.20.204:12040?$henan
-河南都市,http://123.163.27.119:4022/rtp/239.16.10.120:2000?$henan
-河南都市,http://123.163.27.119:4022/rtp/239.16.20.164:11640?$henan
-河南功夫,http://123.163.27.119:4022/rtp/239.16.10.150:2000?$henan
-河南影视,http://123.163.27.119:4022/rtp/239.16.10.123:2000?$henan
-河南影视,http://123.163.27.119:4022/rtp/239.16.20.167:11670?$henan
-河南调解剧场,http://123.163.27.119:4022/rtp/239.16.20.197:11970?$henan
-湖南金鹰纪实,http://123.163.27.119:4022/rtp/239.16.20.153:11530?$henan
-郑州影视戏曲,http://123.163.27.119:4022/rtp/239.16.10.157:2000?$henan
-郑州新闻综合,http://123.163.27.119:4022/rtp/239.16.10.154:2000?$henan
-郑州商都,http://123.163.27.119:4022/rtp/239.16.10.155:2000?$henan
-郑州文体,http://123.163.27.119:4022/rtp/239.16.10.156:2000?$henan
-郑州妇女儿童,http://123.163.27.119:4022/rtp/239.16.10.158:2000?$henan
-郑州都市生活,http://123.163.27.119:4022/rtp/239.16.10.159:2000?$henan
-县市频道,#genre#
-大剧院,http://123.163.27.119:4022/rtp/239.16.20.217:12170?$henan
-义马电视台,http://123.163.27.119:4022/rtp/239.16.20.109:11090?$henan
-义马电视台,http://123.163.27.119:4022/rtp/239.16.20.236:12360?$henan
-内黄综合,http://123.163.27.119:4022/rtp/239.16.20.228:12280?$henan
-卫辉电视台,http://123.163.27.119:4022/rtp/239.16.20.191:11910?$henan
-叶县电视台,http://123.163.27.119:4022/rtp/239.16.20.136:11360?$henan
-叶县电视台,http://123.163.27.119:4022/rtp/239.16.20.32:10320?$henan
-周口新闻综合,http://123.163.27.119:4022/rtp/239.16.10.59:2000?$henan
-大美河南,http://123.163.27.119:4022/rtp/239.16.20.243:12430?$henan
-宝丰,http://123.163.27.119:4022/rtp/239.16.20.209:12090?$henan
-宝丰,http://123.163.27.119:4022/rtp/239.16.20.63:10630?$henan
-封丘新闻综合,http://123.163.27.119:4022/rtp/239.16.20.19:10190?$henan
-新密综合,http://123.163.27.119:4022/rtp/239.16.10.31:2000?$henan
-新密综合,http://123.163.27.119:4022/rtp/239.16.20.41:10410?$henan
-新郑,http://123.163.27.119:4022/rtp/239.16.10.35:2000?$henan
-新郑,http://123.163.27.119:4022/rtp/239.16.20.45:10450?$henan
-杞县新闻综合,http://123.163.27.119:4022/rtp/239.16.10.80:2000?$henan
-永城新闻联播,http://123.163.27.119:4022/rtp/239.16.10.93:2000?$henan
-汝阳综合,http://123.163.27.119:4022/rtp/239.16.20.207:12070?$henan
-洛阳新闻综合,http://123.163.27.119:4022/rtp/239.16.20.179:11790?$henan
-洛阳科教,http://123.163.27.119:4022/rtp/239.16.20.177:11770?$henan
-洛阳文旅,http://123.163.27.119:4022/rtp/239.16.20.178:11780?$henan
-淅川电视台,http://123.163.27.119:4022/rtp/239.16.10.38:2000?$henan
-淅川电视台,http://123.163.27.119:4022/rtp/239.16.20.48:10480?$henan
-淇县电视台,http://123.163.27.119:4022/rtp/239.16.20.205:12050?$henan
-渑池新闻综合,http://123.163.27.119:4022/rtp/239.16.20.135:11350?$henan
-渑池新闻综合,http://123.163.27.119:4022/rtp/239.16.20.47:10470?$henan
-焦作公共,http://123.163.27.119:4022/rtp/239.16.20.155:11550?$henan
-焦作综合,http://123.163.27.119:4022/rtp/239.16.20.140:11400?$henan
-禹州电视台,http://123.163.27.119:4022/rtp/239.16.10.39:2000?$henan
-镇平新闻综合,http://123.163.27.119:4022/rtp/239.16.10.46:2000?$henan
-镇平新闻综合,http://123.163.27.119:4022/rtp/239.16.20.50:10500?$henan
-获嘉综合,http://123.163.27.119:4022/rtp/239.16.20.25:10250?$henan
-邓州综合,http://123.163.27.119:4022/rtp/239.16.20.20:10200?$henan
-郏县综合,http://123.163.27.119:4022/rtp/239.16.20.235:12350?$henan
-三门峡新闻综合,http://123.163.27.119:4022/rtp/239.16.20.145:11450?$henan
-信阳文旅,http://123.163.27.119:4022/rtp/239.16.10.71:2000?$henan
-信阳新闻综合,http://123.163.27.119:4022/rtp/239.16.10.52:2000?$henan
-南阳新闻综合,http://123.163.27.119:4022/rtp/239.16.10.58:2000?$henan
-南阳公共,http://123.163.27.119:4022/rtp/239.16.10.165:2000?$henan
-南阳科教,http://123.163.27.119:4022/rtp/239.16.10.164:2000?$henan
-卢氏综合,http://123.163.27.119:4022/rtp/239.16.20.240:12400?$henan
-原阳电视台,http://123.163.27.119:4022/rtp/239.16.20.208:12080?$henan
-孟津综合,http://123.163.27.119:4022/rtp/239.16.20.192:11920?$henan
-安阳新闻综合,http://123.163.27.119:4022/rtp/239.16.20.144:11440?$henan
-安阳科教,http://123.163.27.119:4022/rtp/239.16.20.193:11930?$henan
-巩义综合,http://123.163.27.119:4022/rtp/239.16.10.33:2000?$henan
-巩义综合,http://123.163.27.119:4022/rtp/239.16.20.43:10430?$henan
-平顶山教育台,http://123.163.27.119:4022/rtp/239.16.20.27:10270?$henan
-延津电视台,http://123.163.27.119:4022/rtp/239.16.20.210:12100?$henan
-开封新闻综合,http://123.163.27.119:4022/rtp/239.16.10.57:2000?$henan
-开封文化旅游,http://123.163.27.119:4022/rtp/239.16.10.177:2000?$henan
-新乡公共,http://123.163.27.119:4022/rtp/239.16.20.154:11540?$henan
-新乡新闻综合,http://123.163.27.119:4022/rtp/239.16.20.139:11390?$henan
+#EXTM3U
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Anal (720p)
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Asian (720p)
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Big Ass (720p)
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Big Dick (720p)
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Big Tits (720p)
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Blonde (720p)
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Blowjob (720p)
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Brunette (720p)
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Compilation (720p)
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Cuckold (720p)
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Fetish (720p)
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Gangbang (720p)
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Gay (720p)
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Hardcore (720p)
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Interracial (720p)
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Latina (720p)
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Lesbian (720p)
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Live Cams (720p)
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net MILF (720p)
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Pornstar (720p)
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net POV (720p)
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Rough (720p)
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Russian (720p)
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Teen (720p)
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Threesome (720p)
+https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Woman (720p)
+https://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" group-title="XXX",Babestation24 (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-id="BlueHustler.nl" tvg-logo="https://i.imgur.com/G1YaX0Q.png" group-title="XXX",Blue Hustler (720p)
+http://193.33.240.8:8080/hustler_hd/index.m3u8
+#EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="XXX",Brazzers TV Europe (720p)
+https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="XXX",Dorcel TV (720p)
+https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EroXHD.nl" tvg-logo="https://i.imgur.com/1EOQFqE.png" group-title="XXX",EroX HD (720p)
+https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EroXXXHD.nl" tvg-logo="https://i.imgur.com/ZNBLK41.png" group-title="XXX",EroXXX HD (720p)
+https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="XXX",Hustler HD (720p)
+https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="JasminTV.lu" tvg-logo="https://i.imgur.com/3VdU9r0.png" group-title="XXX",Jasmin TV (1080p)
+http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JennyForYou.us" tvg-logo="https://i.imgur.com/W9x8sNg.png" group-title="XXX",Jenny For You (720p)
+https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="XXX",Miami TV Jenny Live (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="XXX",Miami TV Mexico (1080p)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Anal (720p)
+https://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-id="MyCamTVArab.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Arab (720p)
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="XXX",MyCamTV Asian (720p)
+https://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Ass (720p)
+https://live.mycamtv.com/defstream.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigTits.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Tits (720p)
+https://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlonde.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Blonde (720p)
+https://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlowjob.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Blowjob (720p)
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBrunette.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Brunette (720p)
+https://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 tvg-id="MyCamTVLatina.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Latina (720p)
+https://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMedium.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Medium (720p)
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMILF.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV MILF (720p)
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSkinny.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Skinny (720p)
+https://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSquirt.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Squirt (720p)
+https://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 tvg-id="MyCamTVTeen.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Teen (720p)
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV White (720p)
+https://live.mycamtv.com/white.m3u8
+#EXTINF:-1 tvg-id="MyCamTVYoung.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Young (720p)
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 tvg-id="PenthouseGold.us" tvg-logo="https://i.imgur.com/0JufwBJ.png" group-title="XXX",Penthouse Gold (1080p)
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="XXX",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="PrivateTV.nl" tvg-logo="https://i.imgur.com/2yt8MAA.png" group-title="XXX",Private TV (576p)
+http://149.62.183.194:9293/play/a07t
+#EXTINF:-1 tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" group-title="XXX",Private TV HD (720p)
+https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="XXX",Redlight HD (720p)
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Silk.ru" tvg-logo="https://i.imgur.com/pbLpTrt.png" group-title="XXX",Silk (1080p) [Geo-blocked]
+http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="XXX",Visit-X TV (720p)
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="XXXCartoons.de" tvg-logo="https://i.imgur.com/kNYY78z.png" group-title="Animation;XXX",XXX Cartoons (520p)
+http://144.76.58.245:2307/cartoon/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热01
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热02
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热03
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热04
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",一本00
+https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",二本01
+https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",三本02
+https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",一本03
+http://live.redtraffic.xyz:80/bigass.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",二本04
+http://live.redtraffic.xyz:80/blowjob.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",欧美01
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",欧美02
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",松视1
+http://live.redtraffic.xyz:80/fetish.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",松视2
+http://live.redtraffic.xyz:80/bigdick.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",玩美台
+http://live.redtraffic.xyz:80/pov.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",限制级
+http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
